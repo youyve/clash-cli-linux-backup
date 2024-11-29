@@ -1,8 +1,8 @@
 # 使用说明
 
 ```bash
-git clone https://github.com/youyve/clash-linux-cli-backup.git
-mv clash-linux-cli-backup clash
+git clone https://github.com/youyve/clash-cli-linux-backup.git
+mv clash-cli-linux-backup clash
 cd clash
 
 chmod +x bin/clash*
